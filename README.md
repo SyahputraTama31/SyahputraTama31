@@ -78,13 +78,13 @@ Mari terhubung dan berdiskusi seputar pemrograman maupun proyek teknologi:
 
 <div align="center">
   <a href="mailto:[ISI_EMAIL_ANDA]">
-    <img src="https://img.shields.io/badge/Email-[Raditya09098@gmail.com]-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Kirim Email ke Tama" />
+    <img src="https://img.shields.io/badge/Email-Raditya09098@gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Kirim Email ke Tama" />
   </a>
-  <a href="https://linkedin.com/in/[Raditya Syahputra]">
+  <a href="https://linkedin.com/in/Raditya Syahputra">
     <img src="https://img.shields.io/badge/LinkedIn-TamaGho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profil LinkedIn TamaGho" />
   </a>
-  <a href="https://instagram.com/[ISI_USERNAME_INSTAGRAM]">
-    <img src="https://img.shields.io/badge/Instagram-@[sptratamaa]-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram TamaGho" />
+  <a href="https://instagram.com/sptratamaa">
+    <img src="https://img.shields.io/badge/Instagram-@sptratamaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram TamaGho" />
   </a>
 </div>
 
