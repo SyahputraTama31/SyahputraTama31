@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Halo! Saya **Tama** (dikenal di GitHub sebagai **TamaGho**), seorang pelajar di **[ISI NAMA SEKOLAH / JURUSAN]** yang antusias mendalami dunia pemrograman dan rekayasa perangkat lunak. 
+Halo! Saya **Tama** (dikenal di GitHub sebagai **TamaGho**), seorang pelajar di **SMK NEGERI 1 PEMALANG JURUSAN REKAYASA PERANGKAT LUNAK** yang antusias mendalami dunia pemrograman dan rekayasa perangkat lunak. 
 
 Saya aktif mengembangkan aplikasi berbasis web, program desktop, serta bereksperimen dengan modul mikrokontroler hardware. Sehari-hari saya menikmati alur kerja efisien dan minimalis di lingkungan Linux (**Arch Linux + Hyprland**).
 
@@ -35,20 +35,17 @@ Berikut beberapa proyek yang pernah dan sedang saya kembangkan:
 - 🕌 **[Presensi-ROHIS](https://github.com/SyahputraTama31/Presensi-ROHIS)**  
   Aplikasi web sistem absensi digital berbasis verifikasi geolocation (GPS) untuk ekstrakurikuler Rohani Islam di SMK Negeri 1 Pemalang (*Tech: PHP, MySQL, Tailwind CSS*).
 
-- 📚 **[Tugas_smt2](https://github.com/SyahputraTama31/Tugas_smt2)**  
-  Kumpulan tugas dan modul praktik semester 2 berbasis PHP (*Deskripsi: [ISI DESKRIPSI SINGKAT]*).
 
-- 📂 **[Full_Tugas_Pak_F](https://github.com/SyahputraTama31/Full_Tugas_Pak_F)**  
-  Dokumentasi dan arsip portofolio latihan web dasar berbasis HTML & CSS (*Deskripsi: [ISI DESKRIPSI SINGKAT]*).
+
 
 ---
 
 ### 📖 Yang Sedang Dipelajari
 
 Saat ini saya sedang fokus memperdalam:
-- [ISI TOPIK / FRAMEWORK 1, misal: Pemrograman Berorientasi Objek lanjut di Java]
-- [ISI TOPIK / FRAMEWORK 2, misal: Tailwind CSS v4 & RESTful API PHP]
-- [ISI TOPIK / FRAMEWORK 3, misal: Otomasi sensor menggunakan modul Arduino / ESP32]
+- [Penggunaaan Laravel]
+- [Penggunaan React]
+- [Mempelajari IOT]
 
 ---
 
